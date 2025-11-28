@@ -4,10 +4,10 @@
 
 // let a; // Definition oder Deklaration
 
-// // Wertzuweisung / Assignment 
+// // // Wertzuweisung / Assignment 
 // a = 2; // number 
-// a = true; // boolean (true, false)
-// a = "Hallo"; // string
+// // a = true; // boolean (true, false)
+// // a = "Hallo"; // string
 
 //  console.log(typeof a);
 //  console.log(a);
@@ -72,7 +72,4 @@
 // https://github.com/01a-ComCave-PP/01_Basics_PP/blob/main/src/08_funktionen_I.js
 // https://github.com/01a-ComCave-PP/01_Basics_PP/blob/main/src/10a_funktionen_II.js
 
-
-// rechner();
-console.log(prompt("?"));
 
